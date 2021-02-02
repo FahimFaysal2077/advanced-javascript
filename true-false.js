@@ -1,5 +1,5 @@
-// false value: 0, '', undefined, null, NaN, false.
-// true value: '0', ' ', [], {}.
+// falsy value: 0, '', undefined, null, NaN, false.
+// truthy value: '0', ' ', [], {}.
 
 // variable ar man 0 hole ta sobsomai false hobe.
 const age2 = 0;
